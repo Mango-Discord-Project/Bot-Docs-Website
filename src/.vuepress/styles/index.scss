@@ -55,3 +55,23 @@ body {
 table.unwrap-without-last tr td:not(:last-child) {
   white-space: nowrap;
 }
+
+/* 讓容器變成 Flex 佈局 */
+.table-grid {
+  display: flex;
+  gap: 1.5rem; /* 兩個表格之間的間距 */
+  align-items: flex-start;
+}
+
+/* 讓子區塊等寬且支援響應式 */
+.table-item {
+  flex: 1;
+  min-width: 0; /* 防止表格撐破容器 */
+}
+
+/* 選擇性：在手機板時自動改成上下堆疊 */
+@media (max-width: 719px) {
+  .table-grid {
+    flex-direction: column;
+  }
+}

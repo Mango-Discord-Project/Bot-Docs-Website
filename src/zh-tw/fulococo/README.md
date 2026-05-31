@@ -2,6 +2,7 @@
 title: 芙蘿可可FuloCoco
 dir:
   link: true
+category: 芙蘿可可
 ---
 
 我叫 芙蘿可可FuloCoco！

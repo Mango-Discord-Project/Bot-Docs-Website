@@ -137,6 +137,8 @@ export default hopeTheme(
 
       alert: true,
       hint: true,
+
+      mermaid: true,
     },
 
     plugins: {
