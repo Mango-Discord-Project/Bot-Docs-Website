@@ -1,5 +1,5 @@
 ---
-title: 筆記：討伐
+title: 筆記：麻將
 description: 芙蘿可可筆記：日本麻將
 category: 芙蘿可可
 tags:
