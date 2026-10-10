@@ -214,6 +214,7 @@ Boss 死亡後 10 分鐘會輪換為下一個首領，可使用道具直接使 B
 
 <div class="table-grid">
   <div class="table-item">
+    
 #### 每次討伐
 
 | 物品名稱 | 數量        | 機率 |
